@@ -17,7 +17,7 @@
 /** home page section **/
 
 .header-name {
-      font-family: 'Cormorant Garamond', serif;
+      font-family: 'Indie Flower', cursive ;
       font-size: 52px;
       margin-top: 50px;
 
@@ -29,7 +29,7 @@
 }
 
 #below-name {
-      font-family: 'Cormorant Garamond', serif;
+      font-family: 'Indie Flower', cursive ;
       font-size: 25px;
       padding-bottom: 45px;
       padding-top: 30px;
@@ -47,14 +47,16 @@
 
 .about-name {
       font-size: 45px;
-      font-family: 'Cormorant Garamond', serif;
+      font-family: 'Indie Flower', cursive;
       color: white;
       padding-bottom: 20px;
 }
 
 .about-article {
+      font-family: 'Gaegu', cursive;
       color: white;
       font-size: 20px;
+      text-align: center;
 
 }
 
@@ -74,7 +76,7 @@
 
 .projects-name {
       font-size: 45px;
-      font-family: 'Cormorant Garamond', serif;
+      font-family: 'Indie Flower', cursive ;
 }
 
 .bg-3 { 
