@@ -25,7 +25,7 @@ $(document).ready(function(){
     });
   });
 
-  // menu goes away after clicking on a link 
+  // menu shows when users mouse is over toggle. It goes away when the users mouse has left 
   $(document).ready(() => {
     $(".container").on('mouseover', () => {
         $("#myNavbar").show();
@@ -34,4 +34,3 @@ $(document).ready(function(){
   })
 });
 
-//NEED TO FIX! need menu to reappear .. it stays hidden
