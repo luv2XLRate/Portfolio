@@ -24,3 +24,14 @@ $(document).ready(function(){
       } // End if
     });
   });
+
+  // menu goes away after clicking on a link 
+  $(document).ready(() => {
+    $(".container").on('mouseover', () => {
+        $("#myNavbar").show();
+  }).on('mouseout', () => {
+        $("#myNavbar").hide();
+  })
+});
+
+//NEED TO FIX! need menu to reappear .. it stays hidden
