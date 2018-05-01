@@ -17,20 +17,17 @@
 /** home page section **/
 
 .header-name {
-      font-family: 'Indie Flower', cursive ;
+      font-family: 'Cagliostro', sans-serif;
       font-size: 52px;
       margin-top: 50px;
-
       margin-bottom: 80px;
-
       margin-bottom: 45px;
-
       height: 120px;
 }
 
 #below-name {
-      font-family: 'Indie Flower', cursive ;
-      font-size: 25px;
+      font-family: 'Cagliostro', sans-serif;
+      font-size: 30px;
       padding-bottom: 45px;
       padding-top: 30px;
 
