@@ -24,15 +24,7 @@ $(document).ready(function(){
       } // End if
     });
   });
-
-  // menu shows when users mouse is over toggle. It goes away when the users mouse has left 
-  $(document).ready(() => {
-    $(".container").on('mouseover', () => {
-        $("#myNavbar").show();
-  }).on('mouseout', () => {
-        $("#myNavbar").hide();
-  })
-});
+    
 
 
 
